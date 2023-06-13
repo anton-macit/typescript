@@ -1,0 +1,2 @@
+# typescript
+Something about typescript
